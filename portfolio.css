@@ -1,0 +1,142 @@
+*{
+    margin:0;
+    padding: 0;
+}
+#master{
+    margin: 0 auto;
+    background-color: #f7f7f7;
+    height: 925px;
+    width: 950px;
+    border: solid 2px black;
+}
+h1{
+    font-family: "Comic Sans MS", "Comic Sans";
+    position: relative;
+    top: 10px;
+    left: 30px;
+    display: inline;
+    font-weight: normal;
+}
+#h21{
+    display: inline;
+    position: relative;
+    top: 10px;
+    left: 375px;
+    font-weight: normal;
+}
+#purple{
+    background: radial-gradient(circle, #6f5963, #1a0a0f);
+    height: 800px;
+    margin-top: 20px;
+}
+#picture{
+    border: solid 5px #c0c0c0;
+    display: inline-block;
+    max-width: 400px;
+    position: relative;
+    top: 20px;
+    left: 20px;
+}
+#about{
+    background: linear-gradient(to right, #ffffff, #dacbd9);
+    display: inline-block;
+    height: 273px;
+    width: 475px;
+    position: relative;
+    top: 20px;
+    left: 40px;
+    vertical-align: top;
+}
+.topP{
+    margin: 10px 0 0 10px;
+}
+#topp{
+    margin: 10px 0 0 10px;
+    text-decoration: underline;
+}
+#h22{
+    position: relative; 
+    top: 10px;
+    left: 15px;
+    color: white;
+    font-weight: normal;
+}
+.gradient{
+    background: linear-gradient(#b3b3b7, #888593, #b4b4b7); 
+    width: 475px;
+    height: 40px;
+}
+.gradient1{
+    background: linear-gradient(#b3b3b7, #888593, #b4b4b7); 
+    width: 285px;
+    height: 40px;
+}
+#laMode{
+    background: linear-gradient(to right, #ffffff, #dacbd9);
+    height: 465px;
+    width: 285px;
+    display: inline-block;
+    position: relative;
+    top: 40px;
+    left: 20px;
+    margin-right: 23px;
+}
+#familyContacts{
+    background: linear-gradient(to right, #ffffff, #dacbd9);
+    height: 465px;
+    width: 285px;
+    display: inline-block;
+    position: relative;
+    top: 40px;
+    left: 20px;
+    margin-right: 23px;
+    vertical-align: top;
+}
+#fiveEleven{
+    background: linear-gradient(to right, #ffffff, #dacbd9);
+    height: 465px;
+    width: 285px;
+    display: inline-block;
+    position: relative;
+    top: 40px;
+    left: 20px;
+    vertical-align: top;
+}
+.bottomPics{
+    max-width: 285px;
+}
+.bottomP{
+    margin: 10px;
+}
+.logos{
+    display: inline;
+    max-width: 30px;
+    margin: 7px 10px 0 10px;
+    position: relative;
+    left: 8px;
+}
+#lastP{
+    margin-left: 365px;
+}
+#lastp{
+    text-decoration: underline;
+    margin: 15px 0 0 310px;
+}
+.lastlogo{
+    display: inline;
+    max-width: 17px;
+    position: relative;
+    top: 3px;
+}
+.button{
+    color: white;
+    background-color: #407c61;
+    border-radius: 5px;
+    display: inline-block;
+    font-size: 13px;
+    padding: 3px;
+    margin:5px 0 0 99px;
+}
+#fivep{
+    margin-left: 115px;
+}
